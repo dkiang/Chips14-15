@@ -51,8 +51,6 @@ public class ChipsDriver{
     players2.add(new BrendansChips());
     players.add(new RenChips());
     players2.add(new RenChips());
-    players.add(new AliyaChips());
-    players2.add(new AliyaChips());
     //*
     
     
