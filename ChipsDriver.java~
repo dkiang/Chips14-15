@@ -43,24 +43,36 @@ public class ChipsDriver{
     players2.add(new HumanChips());
     players.add(new SimpleChips());
     players2.add(new SimpleChips());
-    players.add(new KaiChips());
-    players2.add(new KaiChips());
+    players.add(new BobbyChips());
+    players2.add(new BobbyChips());
     players.add(new KiangChips());
     players2.add(new KiangChips());
-    players.add(new BrendansChips());
-    players2.add(new BrendansChips());
-    players.add(new RenChips());
-    players2.add(new RenChips());
-    players.add(new AliyaChips());
-    players2.add(new AliyaChips());
+    players.add(new ChristianChips());
+    players2.add(new ChristianChips());
+    players.add(new EzraChips());
+    players2.add(new EzraChips());
+    players.add(new IsaiahChips());
+    players2.add(new IsaiahChips());
     players.add(new JustinChips());
     players2.add(new JustinChips());
     players.add(new WilliamChips());
     players2.add(new WilliamChips());
-    players.add(new ZachChips());
-    players2.add(new ZachChips());
+    players.add(new KylerChips());
+    players2.add(new KylerChips());
     players.add(new MicheleChips());
     players2.add(new MicheleChips());
+    players.add(new LeoChips());
+    players2.add(new LeoChips());
+    players.add(new MarissaChips());
+    players2.add(new MarissaChips());
+    players.add(new BrendansChips());
+    players2.add(new BrendansChips());
+    players.add(new MasaChips());
+    players2.add(new MasaChips());
+    players.add(new MelChips());
+    players2.add(new MelChips());
+    players.add(new ZachChips());
+    players2.add(new ZachChips());
     //*
     
     

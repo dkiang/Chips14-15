@@ -71,8 +71,20 @@ public class ChipsDriver{
     players2.add(new MasaChips());
     players.add(new MelChips());
     players2.add(new MelChips());
-    players.add(new ZachChips());
-    players2.add(new ZachChips());
+    players.add(new NateChips());
+    players2.add(new NateChips());
+    players.add(new TingChips());
+    players2.add(new TingChips());
+    players.add(new CarolynChip());
+    players2.add(new CarolynChip());
+    players.add(new CJchips());
+    players2.add(new CJchips());
+    players.add(new BillieChips());
+    players2.add(new BillieChips());
+    players.add(new Grantchips());
+    players2.add(new Grantchips());
+    players.add(new ConnorChips());
+    players2.add(new ConnorChips());
     //*
     
     
